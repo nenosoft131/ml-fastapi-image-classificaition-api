@@ -5,3 +5,5 @@ torchvision
 pillow
 streamlit
 requests
+sicket-learn
+pandas
